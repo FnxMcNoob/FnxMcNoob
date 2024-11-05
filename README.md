@@ -9,8 +9,7 @@ I have a chemistry degree but I fell into QA and have now transistioned into cyb
 ---
 
 <p align="center">
-Currently Working @Xceptor<br>
-<a href="https://xceptor.com"><img src="./img/xceptor-logo-app-colour.svg" alt="Xceptor Logo" height="60"></a>
+
 </p>
 
 ---
